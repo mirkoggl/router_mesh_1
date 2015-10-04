@@ -8,8 +8,6 @@ library work;
 use work.logpack.all;
 use work.routerpack.all;
 
--- HELLO
-
 entity router_mesh is
 	Generic (
 		LOCAL_X : natural := 1;
