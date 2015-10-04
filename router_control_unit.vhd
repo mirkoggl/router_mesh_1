@@ -7,7 +7,7 @@ use ieee.std_logic_unsigned.all;
 library work;
 use work.logpack.all;
 use work.routerpack.all;
-
+ 
 entity router_control_unit is
 	Generic (
 		LOCAL_X : natural := 1;
