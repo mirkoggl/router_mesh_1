@@ -1,0 +1,31 @@
+# Reading C:/altera/15.0/modelsim_ase/tcl/vsim/pref.tcl
+# vsim -gui -modelsimini C:/Users/Mirko/AppData/Local/Temp/SigasiCompileCache2822128259996152730/router_mesh_1/mentor/modelsim.ini work.tbc_in_out(behavior) 
+# Start time: 16:23:17 on Oct 04,2015
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.logpack(body)
+# Loading work.tbc_in_out(behavior)
+# Loading work.net_input_interface(rtl)
+# Loading work.net_output_interface(rtl)
+add wave -position end  sim:/tbc_in_out/clk
+add wave -position end  sim:/tbc_in_out/reset
+add wave -position end  sim:/tbc_in_out/valid
+add wave -position end  sim:/tbc_in_out/wren
+add wave -position end  sim:/tbc_in_out/ack
+add wave -position end  sim:/tbc_in_out/shft
+add wave -position end  sim:/tbc_in_out/full_in
+add wave -position end  sim:/tbc_in_out/full_out
+add wave -position end  sim:/tbc_in_out/empty_in
+add wave -position end  sim:/tbc_in_out/empty_out
+add wave -position end  sim:/tbc_in_out/sdone_in
+add wave -position end  sim:/tbc_in_out/sdone_out
+add wave -position end  sim:/tbc_in_out/Data_In
+add wave -position end  sim:/tbc_in_out/data_bus
+add wave -position end  sim:/tbc_in_out/Data_Out
+run
+# End time: 16:23:45 on Oct 04,2015, Elapsed time: 0:00:28
+# Errors: 0, Warnings: 0
