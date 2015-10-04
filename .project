@@ -22,6 +22,21 @@
 			<locationURI>virtual:/virtual</locationURI>
 		</link>
 		<link>
+			<name>net_input_interface.vhd</name>
+			<type>1</type>
+			<location>C:/workspace_quartus/NoC/Router_Mesh/net_input_interface.vhd</location>
+		</link>
+		<link>
+			<name>net_output_interface.vhd</name>
+			<type>1</type>
+			<location>C:/workspace_quartus/NoC/Router_Mesh/net_output_interface.vhd</location>
+		</link>
+		<link>
+			<name>router_control_unit.vhd</name>
+			<type>1</type>
+			<location>C:/workspace_quartus/NoC/Router_Mesh/router_control_unit.vhd</location>
+		</link>
+		<link>
 			<name>Common Libraries/DRAG_REUSABLE_LIBRARIES_HERE.txt</name>
 			<type>1</type>
 			<locationURI>sigasiresource:/vhdl/readme2.txt</locationURI>
